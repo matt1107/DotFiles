@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1913"
+   sodipodi:docname="up.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1915"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="28.416667"
+     inkscape:cx="5.313783"
+     inkscape:cy="11.912023"
+     inkscape:window-width="1916"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1913" />
+  <defs
+     id="defs1907">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+  </defs>
+  <g
+     transform="matrix(1,0,0,1,4,4)"
+     id="g1911">
+    <path
+       class="ColorScheme-Text"
+       d="M 7,14 V 6 L 3.5,9.5 2,8 8,2 14,8 12.5,9.5 9,6 V 14 Z"
+       style="fill:currentColor"
+       id="path1909" />
+  </g>
+  <path
+     style="fill:#ebcb8b;stroke-width:0.0351906;fill-opacity:1"
+     d="M 11.014663,13.979604 V 9.9592082 L 9.2551177,11.718489 7.4955727,13.47777 6.7565969,12.738795 6.0176212,11.999819 9.0088106,9.0087847 12,6.0177506 l 2.991189,2.9910341 2.99119,2.9910343 -0.738976,0.738976 -0.738976,0.738975 -1.759545,-1.759281 -1.759545,-1.7592808 V 13.979604 18 H 12 11.014663 Z"
+     id="path1972" />
+  <path
+     style="fill:#d08770;fill-opacity:1;stroke-width:0.0351906"
+     d="M 11.032258,13.962007 V 9.9240151 l -1.7685503,1.7682899 -1.7685502,1.76829 -0.7298688,-0.73049 -0.7298688,-0.73049 2.9823675,-2.9822122 2.9823676,-2.9822126 2.982342,2.9824965 2.982341,2.9824963 -0.730102,0.730102 -0.730102,0.730102 -1.768446,-1.768186 -1.768446,-1.7681859 V 13.962007 18 H 12 11.032258 Z"
+     id="path11788" />
+</svg>
